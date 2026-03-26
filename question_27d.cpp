@@ -6,6 +6,7 @@ int main() {
     int n;
     long long S = 0; // biến tổng
 
+    cout << "Hay nhap vao so n: "; // thông báo cho người dùng nhập
     cin >> n; // nhập n
 
     for (int i = 0; i <= n; i++) {
